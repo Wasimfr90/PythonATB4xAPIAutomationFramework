@@ -1,26 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9706bc1c-11aa-4bf3-9a21-9bf545412fcf" name="Changes" comment="" />
+    <list default="true" id="9706bc1c-11aa-4bf3-9a21-9bf545412fcf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/api_request_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_create_booking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_create_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_crud_better.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_crud_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/api_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/test_sample.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Wasimfr90&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Wasimfr90/PythonATB4xAPIAutomationFramework.git&quot;,
+    &quot;accountId&quot;: &quot;8204be41-8b34-477d-83b4-fb7707dbd081&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2sr5m6KiYEjxhKn6oESl2VCZ9z7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_crud_better.TestCRUDBooking.test_delete_booking_id.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\files\Python\Pycharm projects\PythonATB4xAPIAutomationFramework\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_crud_better.TestCRUDBooking.test_delete_booking_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonATB4xAPIAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/crud" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crud_better.TestCRUDBooking.test_delete_booking_id&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_crud_better.TestCRUDBooking.test_delete_booking_id" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
